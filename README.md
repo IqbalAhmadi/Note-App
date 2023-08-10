@@ -1,7 +1,7 @@
 # Note Application with Marked Library
 
-The Note Application is a simple web-based note-taking application that allows users to create, edit, and delete notes. It is built using HTML, CSS, and JavaScript, and it utilizes the Marked library for rendering Markdown content. The application also utilizes the local storage feature to store notes, ensuring that user data persists even after closing the browser.
-[Deployed Link]()
+The Note Application is a simple web-based note-taking application that allows users to create, edit, and delete notes. It is built using HTML, CSS, and JavaScript, and it utilizes the Marked library for rendering Markdown content. The application also utilizes the local storage feature to store notes, ensuring that user data persists even after closing the browser. <br/>
+[Deployed Link 🔥](https://iqbalahmadi.github.io/note-app/)
 ![Demo](./asset/Demo.gif)
 
 ## Features
